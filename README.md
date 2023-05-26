@@ -1,1 +1,1 @@
-# simplyneopog.github.io
+# neogithub.io
